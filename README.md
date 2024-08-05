@@ -16,7 +16,8 @@
 ** Compute Linear Regression for Each Relationship
 ** To fulfill the second requirement, compute the linear regression for each relationship. Separate the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude). You may find it helpful to define a function in order to create the linear regression plots. Next, create a series of scatter plots. Be sure to include the linear regression line, the model's formula, and the r^2 values as you can see in the following image
 
-   ![image](https://github.com/user-attachments/assets/5ba2e00e-d470-423d-9a17-145f7d427399)
+   ![image](https://github.com/user-attachments/assets/49d21467-3819-4dd0-acfe-efbf2661cfd6)
+
 
 ** Create the following plots:
 
@@ -41,8 +42,9 @@
 # Instructions - Part 2: VacationPy
 
 ** Create a map that displays a point for every city in the city_data_df DataFrame as shown in the following image. The size of the point should be the humidity in each city.
+  
+   ![image](https://github.com/user-attachments/assets/22a40720-bdc2-4295-9235-39df8951de5a)
 
-  ![image](https://github.com/user-attachments/assets/4c1afdaa-e17b-4fb7-9356-6935cc03629d)
 
 ** Narrow down the city_data_df DataFrame to find your ideal weather condition. For example:
 
@@ -56,7 +58,9 @@
 ** For each city, use the Geoapify API to find the first hotel located within 10,000 meters of your coordinates.
 ** Add the hotel name and the country as additional information in the hover message for each city on the map as in the following image:
 
-  ![image](https://github.com/user-attachments/assets/a585cf6b-7fff-4779-9f7f-bcd4753c585d)
+  ![image](https://github.com/user-attachments/assets/6d0c1ea8-e934-4da9-beee-92ce68eca00a)
+
+ 
 
 
 
